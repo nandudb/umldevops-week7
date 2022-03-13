@@ -45,7 +45,7 @@ podTemplate(yaml: '''
           sh '''
                     pwd
 		    ls
-	            cd devops-week7
+	            cd umldevops-week7
 		    ls			
                     chmod +x gradlew
                     ./gradlew build
