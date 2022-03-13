@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.19">
+<file name="/Users/nandakumarthukkaram/docker/umass_devops/umlS22/umldevops_week6/sample1/src/main/java/com/leszko/calculator/Calculator.java">
+<error line="6" severity="error" message="Missing a Javadoc comment." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck"/>
+</file>
+<file name="/Users/nandakumarthukkaram/docker/umass_devops/umlS22/umldevops_week6/sample1/src/main/java/com/leszko/calculator/CalculatorApplication.java">
+</file>
+<file name="/Users/nandakumarthukkaram/docker/umass_devops/umlS22/umldevops_week6/sample1/src/main/java/com/leszko/calculator/CalculatorController.java">
+</file>
+</checkstyle>
